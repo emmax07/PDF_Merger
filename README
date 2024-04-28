@@ -1,0 +1,15 @@
+Step 1: Install PyPDF2: Open a terminal or command prompt and install the PyPDF2 library using pip, a package manager for Python. Run the following command:
+
+pip install PyPDF2
+
+Step 2: Run the Script: Open a terminal or command prompt, navigate to the directory where you saved the script (pdf_merger.py), and run the script using the following command:
+
+python pdf_merger.py
+
+Step 3: User will be prompted to enter their folder path where the PDF is saved.
+Enter the folder path containing the PDF files: D:\James\pdf_files
+
+Step 4: User to give name of the PDF file merged.
+Enter the output file name for the merged PDF (e.g., merged_output.pdf): account.pdf
+
+Step 5: Go and check the path you provided you will see the PDFs that you merged has been successfully merged
